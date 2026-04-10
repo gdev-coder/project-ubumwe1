@@ -12,10 +12,10 @@
       <center>
       <h2 class="soc">Social Media</h2><br>   
    
-     <button class="fb"><a href="#">Facebook</a></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <button class="fb"><a href="https://www.facebook.com/wizzybreezytyga/">Facebook</a></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <button class="ig"><a href="https://www.instagram.com/tri_tempo/">Instagram</a></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <button class="you"><a href="#">LinkedIn</a></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <button class="x"><a href="#">X</a></button>&nbsp;&nbsp;
+     <button class="you"><a href="https://www.x.com/">LinkedIn</a></button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <button class="x"><a href="https://www.linkedin.com/">X</a></button>&nbsp;&nbsp;
       <h1 class="fh">&copy 2026 UWIMANA Willfried/GIANTSCODE </h1>
    </center>
 </footer>
