@@ -9,12 +9,13 @@ export default defineConfig(({ mode })=>{
   return{
   plugins: [
     vue(),
-    mode !== 'production' &&
-    vueDevTools(),
-  ],}
+    mode !== 'production' ?
+    vueDevTools() : null,
+  ].filter(Boolean),
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+}
 })
